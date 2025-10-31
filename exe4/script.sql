@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS person (
+    id INT PRIMARY KEY,
+    name TEXT,
+);
